@@ -1,2 +1,2 @@
 # ProjetoTabuada
-Projeto onde tem um sistema de tabuada automático
+Sistema automaizado de tabuada
